@@ -8,5 +8,5 @@
  git push
 
 
- ##Si no me dice quien soy,entonces necesito restaurar la PC.
+ #Si no me dice quien soy,entonces necesito restaurar la PC.
 
